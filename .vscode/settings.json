@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "lib"
     ],
-    "claudeCodeChat.permissions.yoloMode": false
+    "claudeCodeChat.permissions.yoloMode": false,
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
