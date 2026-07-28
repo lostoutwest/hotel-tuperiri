@@ -3,5 +3,6 @@
         "lib"
     ],
     "claudeCodeChat.permissions.yoloMode": false,
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Users/mgboo/Documents/Projects/hotel_tuperiri/windows"
 }

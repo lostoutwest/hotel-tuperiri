@@ -1,11 +1,11 @@
 {
-    "name": "garage_app",
-    "short_name": "garage_app",
+    "name": "Hotel Tuperiri",
+    "short_name": "Hotel Tuperiri",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hotel Tuperiri",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
